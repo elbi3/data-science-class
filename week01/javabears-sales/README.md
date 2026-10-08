@@ -2,7 +2,7 @@
 
 ## Tasks
 ### Part 1 – Construct the DataFrame
-Using a Python dictionary or a NumPy array format, construct a Pandas DataFrame named coffee_sales.
+Using a Python dictionary or a NumPy array format, construct a Pandas DataFrame named `coffee_sales`.
 
 Your DataFrame must map out the row records and product columns to match the following raw business data exactly:
 ```py
@@ -30,8 +30,8 @@ Identify the absolute best-selling and least-selling beverage for both 2021 and 
 ### Submission Guidelines
 Submit your completed project workspace containing:
 
-pyproject.toml (your tracking manifest).
+`pyproject.toml` (your tracking manifest).
 
-uv.lock (your generated lockfile).
+`uv.lock` (your generated lockfile).
 
-dataframe_creation.ipynb (fully executed with markdown headers, code comments, visible outputs, and your written strategy analysis).
+`dataframe_creation.ipynb` (fully executed with markdown headers, code comments, visible outputs, and your written strategy analysis).
